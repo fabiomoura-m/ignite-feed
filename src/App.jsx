@@ -40,7 +40,7 @@ const posts = [
             },
             { type: 'link', content: '👉 jane.design/doctorcare' }
         ],
-        publishedAt: new Date('2022-07-19 14:19:00')
+        publishedAt: new Date('2022-07-19 13:19:00')
     }
 ];
 
