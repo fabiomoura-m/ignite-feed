@@ -1,14 +1,10 @@
 # ignite-feed
 
-Aplicativo para gerenciar suas postagens.
+O Ignite Feed é uma rede de posts onde a interação do usuário é via comentários, o usuário pode criar um comentário, deleta-lo e dar likes com o 'Aplaudir'. É responsivo para adaptar em tamanho de diferentes telas como celular e tablet.
 
 ## :computer: Desktop
 
 ![ignite-feed](https://user-images.githubusercontent.com/93055468/180679181-20bfc870-6f6f-4e43-8ad3-783ca950cc82.png)
-
-## :iphone: Mobile
-
-![ignite-feed-mobile](https://user-images.githubusercontent.com/93055468/180679356-36b82cb2-1add-4cad-82f8-7275a28900a8.png)
 
 ## :hammer: Tecnologias
 
